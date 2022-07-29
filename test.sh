@@ -1,6 +1,6 @@
 #!/bin/bash
 NAME="BRAD"
-if [ "$NAME" == "BRAD" ]
+if  "$NAME" == "BRAD" 
 then
 	echo "Your name is BRAD"
 else
